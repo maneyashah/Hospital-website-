@@ -1,2 +1,2 @@
 # Hospital-website-
-This website is based on hospital facilities 
+This website is based on hospital 
